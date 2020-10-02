@@ -1,0 +1,37 @@
+[
+  {
+    "extensions": ".docx/.doc/.dot/.wbk/.dotx/.dotm/.docb",
+    "foldername": "Word",
+    "exceptions": "teste/teste3"
+  },
+  {
+    "extensions": ".xls/.xlt/.xlm/.xlsx/.xlsm/.xltx/.xltm/.xlsb/.xla/.xlam/.xll/.xlw",
+    "foldername": "Excel",
+    "exceptions": "bananas/"
+  },
+  {
+    "extensions": ".py/",
+    "foldername": "Python",
+    "exceptions": "script/create_key/installer/getdrive/installer/rename_file/Uninstaller/content_delete/create_shortcut"
+  },
+  {
+    "extensions": ".json/",
+    "foldername": "Json",
+    "exceptions": "extensions/new_extensions"
+  },
+  {
+    "extensions": ".pdf/",
+    "foldername": "PDF",
+    "exceptions": ""
+  },
+  {
+    "extensions": ".bat/",
+    "foldername": "Batch",
+    "exceptions": "delete"
+  },
+  {
+    "extensions": ".a/.b/.c",
+    "foldername": "BANANAS",
+    "exceptions": ""
+  }
+]
