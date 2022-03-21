@@ -38,13 +38,13 @@
 #### 1
 
 ```
-pyinstaller --onefile -n=&#34;PFO.exe&#34; script.pyw
+pyinstaller --onefile -n="PFO.exe" script.pyw
 ```
 
 #### 2
 
 ```
-pyinstaller --onefile -n=&#34;PFO Uninstaller.exe&#34; uninstaller.pyw
+pyinstaller --onefile -n="PFO Uninstaller.exe" uninstaller.pyw
 ```
 
 #### 3
@@ -54,7 +54,7 @@ pyinstaller --onefile -n=&#34;PFO Uninstaller.exe&#34; uninstaller.pyw
 #### 4
 
 ```
-pyinstaller --onefile --add-data=&#34;extensions.json;ext&#34; --add-data=&#34;PFO.exe;main&#34; --add-data=&#34;PFO Uninstaller.exe;unin&#34; --add-data=&#34;uninstall.ico;icon&#34; --add-data=&#34;gui.ico;icon&#34; --add-data=&#34;GUI.zip;GUI&#34; --add-data=&#34;uninstall pfo.bat;bat&#34; -n=&#34;PFO Installer&#34; installer.py
+pyinstaller --onefile --add-data="extensions.json;ext" --add-data="PFO.exe;main" --add-data="PFO Uninstaller.exe;unin" --add-data="uninstall.ico;icon" --add-data="gui.ico;icon" --add-data="GUI.zip;GUI" --add-data="uninstall pfo.bat;bat" -n="PFO Installer" installer.py
 ```
 
 ## Author
