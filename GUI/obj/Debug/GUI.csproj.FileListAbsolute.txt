@@ -1,0 +1,32 @@
+D:\Projetos\Organize folders\Extensions GUI\GUI\bin\Debug\GUI.exe.config
+D:\Projetos\Organize folders\Extensions GUI\GUI\bin\Debug\GUI.exe
+D:\Projetos\Organize folders\Extensions GUI\GUI\bin\Debug\GUI.pdb
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.exe
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.pdb
+D:\Projetos\Organize folders\Extensions GUI\GUI\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.add_form.resources
+D:\Projetos\Organize folders\Extensions GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\Organize folders\Extensions GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.change.resources
+D:\Projetos\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.delete.resources
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\bin\Debug\GUI.exe.config
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\bin\Debug\GUI.exe
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\bin\Debug\GUI.pdb
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.add_form.resources
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.change.resources
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.delete.resources
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.exe
+D:\Projetos\!Coisas já no github\Organize folders\Extensions GUI\GUI\obj\Debug\GUI.pdb
