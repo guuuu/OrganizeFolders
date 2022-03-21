@@ -27,10 +27,6 @@
 
 >Note: This project was done 2 years ago from this re-upload (2020) but i didn't had the right files uploaded because i didn't really know how github worked at the time
 
-### 🏠 [Homepage](https://guuuu.github.io/OrganizeFolders)
-
-### ✨ [Demo](https://guuuu.github.io/OrganizeFolders)
-
 ## Install
 
 > All of the following commands need to be done inside the Script folder
